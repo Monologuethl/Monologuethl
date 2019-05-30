@@ -20,11 +20,10 @@ ds.PixelData = ds.pixel_array.tostring()
 ds.save_as("data/ test.dcm")
 
 for i in range(262144):
-
-        if 100 > ds.pixel_array.flat[i] > 250:
-            print("")
-            ds.pixel_array.flat[i] = 0
-            print(ds.pixel_array.flat[i])
+    if 100 > ds.pixel_array.flat[i] > 250:
+        print("")
+        ds.pixel_array.flat[i] = 0
+        print(ds.pixel_array.flat[i])
 
 
 np_ds = ds.pixel_array
