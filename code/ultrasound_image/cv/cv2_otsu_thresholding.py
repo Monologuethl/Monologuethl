@@ -3,8 +3,9 @@
 
 import cv2
 from matplotlib import pyplot as plt
+path = r"D:\TONG\github\Monologuethl\image\IMG-0001-00001.jpg"
 
-img = cv2.imread(r'D:\TONG\PycharmProjects\ultrasound image\image\5.jpg', 0)
+img = cv2.imread(path, 0)
 
 # 固定阈值法
 ret1, th1 = cv2.threshold(img, 100, 255, cv2.THRESH_BINARY)
