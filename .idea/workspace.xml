@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Tong.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/dicom_process/mat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/dicom_process/plot_3d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/numpy/numpy_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/0.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/1.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/10.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/11.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/12.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/13.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/14.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/15.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/16.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/17.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/18.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/19.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/2.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/20.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/3.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/4.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/5.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/6.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/7.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/8.dcm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dcm/9.dcm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +11,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="828175387">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="1" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/numpy/numpy_demo.py">
+        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+            <state relative-caret-position="284">
+              <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -74,6 +85,7 @@
         <option value="$PROJECT_DIR$/code/dicom_process/mat.py" />
         <option value="$PROJECT_DIR$/code/dicom_process/3D_numpy.py" />
         <option value="$PROJECT_DIR$/code/numpy/numpy_demo.py" />
+        <option value="$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py" />
       </list>
     </option>
   </component>
@@ -90,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,13 +119,19 @@
               <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
               <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="numpy" type="462c0819:PsiDirectoryNode" />
+              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.numpy_demo">
+  <component name="RunManager" selected="Python.change_name">
     <configuration name="3D_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="batch_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="change_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +187,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/dicom_process" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image/cv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/dicom_process/batch_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cv2_thresholding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Monologuethl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image/cv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/cv/cv2_thresholding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,41 +263,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot_3d" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Monologuethl" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/dicom_process" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/dicom_process/plot_3d.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.batch_generator" />
-      <item itemvalue="Python.plot_3d" />
       <item itemvalue="Python.3D_numpy" />
       <item itemvalue="Python.mat" />
       <item itemvalue="Python.numpy_demo" />
+      <item itemvalue="Python.cv2_thresholding" />
+      <item itemvalue="Python.change_name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.change_name" />
+        <item itemvalue="Python.cv2_thresholding" />
         <item itemvalue="Python.numpy_demo" />
         <item itemvalue="Python.3D_numpy" />
         <item itemvalue="Python.mat" />
-        <item itemvalue="Python.batch_generator" />
-        <item itemvalue="Python.plot_3d" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +302,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.5285235" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,6 +315,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -355,27 +377,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_thresholding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_otsu_thresholding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-          <folding>
-            <element signature="e#41#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
@@ -390,11 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
           <caret line="80" selection-start-line="80" selection-end-line="80" />
-          <folding>
-            <element signature="e#1#36#0" expanded="true" />
-            <element signature="e#417#844#0" />
-            <element signature="e#877#1490#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,9 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,16 +424,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="53" selection-start-line="53" selection-end-line="54" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/numpy/numpy_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+        <state relative-caret-position="432">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/cv2_thresholding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
         </state>
       </provider>
     </entry>
