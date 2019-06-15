@@ -12,7 +12,7 @@ def main():
 
     # Read from file
     stlreader = vtk.vtkSTLReader()
-    stlreader.SetFileName(r"D:\TONG\github\Monologuethl\code\stl\100001.stl")
+    stlreader.SetFileName(r"D:\TONG\github\Monologuethl\code\stl\100005.stl")
 
     cylinderMapper = vtk.vtkPolyDataMapper()  # 渲染多边形几何数据
     cylinderMapper.SetInputConnection(stlreader.GetOutputPort())  # VTK可视化管线的输入数据接口 ，对应的可视化管线输出数据的接口为GetOutputPort()；

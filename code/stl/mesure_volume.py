@@ -13,8 +13,10 @@ Material Mass Source: https://www.toybuilderlabs.com/blogs/news/13053117-filamen
 
 import struct
 import sys
-print('Choose desired print material of STL file below:')
-material = input('1 = ABS or 2 = PLA or 3 = 3k CFRP or 4 = Plexiglass : ')
+
+# print('Choose desired print material of STL file below:')
+material = 1
+# input('1 = ABS or 2 = PLA or 3 = 3k CFRP or 4 = Plexiglass : ')
 
 
 class STLUtils:
@@ -25,8 +27,10 @@ class STLUtils:
         self.bytecount = []
         self.fb = []  # debug list
 
-    # Calculate volume for the 3D mesh using Tetrahedron volume
-    # based on: http://stackoverflow.com/questions/1406029/how-to-calculate-the-volume-of-a-3d-mesh-object-the-surface-of-which-is-made-up
+    # Calculate volume for the 3D mesh using Tetrahedron volume based on:
+    # http://stackoverflow.com/questions/1406029/how-to-calculate-the-volume-of-a-3d-mesh-object-the-surface-of-which
+    # -is-made-up
+
     def signedVolumeOfTriangle(self, p1, p2, p3):
         v321 = p3[0] * p2[1] * p1[2]
         v231 = p2[0] * p3[1] * p1[2]
@@ -122,7 +126,7 @@ class STLUtils:
                     totalVolume += self.read_triangle()
             except Exception as e:
                 print("End calculate triangles volume")
-            totalVolume = (totalVolume / 1000)
+            totalVolume = (totalVolume / 1000*1000)
             totalMass = self.calculateMassCM3(totalVolume)
 
             if totalMass == 0:
@@ -145,7 +149,7 @@ if __name__ == '__main__':
         print("Define model to calculate volume ej: python measure_volume.py torus.stl")
     else:
         mySTLUtils = STLUtils()
-        if(len(sys.argv) > 2 and sys.argv[2] == "inch"):
+        if len(sys.argv) > 2 and sys.argv[2] == "inch":
             mySTLUtils.calculateVolume(sys.argv[1], "inch")
         else:
             mySTLUtils.calculateVolume(sys.argv[1], "cm")
