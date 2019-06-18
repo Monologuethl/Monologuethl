@@ -125,17 +125,19 @@ class STLUtils:
                 while True:
                     totalVolume += self.read_triangle()
             except Exception as e:
-                print("End calculate triangles volume")
+                pass
             totalVolume = (totalVolume / 1000*1000)
             totalMass = self.calculateMassCM3(totalVolume)
 
             if totalMass == 0:
-                print('Total mass could not be calculated')
+                # print('Total mass could not be calculated')
+                pass
             else:
+
                 print('Total mass:', totalMass, 'g')
 
             if unit == "cm":
-                print("Total volume:", totalVolume, "cm^3")
+                print("Total volume:", totalVolume/pow(10, 94), "cm^3")
             else:
                 totalVolume = self.cm3_To_inch3Transform(totalVolume)
                 print("Total volume:", totalVolume, "inch^3")
