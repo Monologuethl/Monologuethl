@@ -50,8 +50,6 @@ R = src[:, :, 2]
 pylab.imshow(R)
 pylab.show()
 
-
-
 # a1 = np.array([1,2,3,4],dtype=np.complex128)
 # print(a1)
 # print("数据类型",type(a1))           #打印数组数据类型
