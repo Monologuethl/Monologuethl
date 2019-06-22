@@ -3,7 +3,7 @@ import numpy as np
 from cv2 import cv2
 import pylab
 
-#
+
 # def binary_photo(path):
 #     src = cv2.imread(path)  # 读取图像
 #

@@ -3,7 +3,7 @@
 
 import cv2
 from matplotlib import pyplot as plt
-path = r"D:\TONG\github\Monologuethl\image\IMG-0001-00001.jpg"
+path = r"D:\TONG\github\Monologuethl\corp_img\0.jpg"
 
 img = cv2.imread(path, 0)
 

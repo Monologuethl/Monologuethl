@@ -9,7 +9,7 @@ def track_back(x):
     pass
 
 
-img = cv2.imread(r'D:\TONG\PycharmProjects\ultrasound image\image\5.jpg', 0)
+img = cv2.imread(r'D:\TONG\github\Monologuethl\corp_img\0.jpg', 0)
 cv2.namedWindow('window')
 
 # 创建滑动条

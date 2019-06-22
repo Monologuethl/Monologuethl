@@ -10,16 +10,16 @@ class BatchRename:
     """
 
     def __init__(self):
-        self.path = r'D:\TONG\研电赛\实验图片'  # 表示需要命名处理的文件夹
+        self.path = r'D:\TONG\github\Monologuethl\us_image'  # 表示需要命名处理的文件夹
 
     def rename(self):
         filelist = os.listdir(self.path)  # 获取文件路径
         total_num = len(filelist)  # 获取文件长度（个数）
-        i = 1  # 表示文件的命名是从1开始的
+        i = 0  # 表示文件的命名是从1开始的
         for item in filelist:
-            if item.endswith('.png'):  # 初始的图片的格式为jpg格式的（或者源文件是png格式及其他格式，后面的转换格式就可以调整为自己需要的格式即可）
+            if item.endswith('.JPG'):  # 初始的图片的格式为jpg格式的（或者源文件是png格式及其他格式，后面的转换格式就可以调整为自己需要的格式即可）
                 src = os.path.join(os.path.abspath(self.path), item)
-                dst = os.path.join(os.path.abspath(self.path), '' + str(i) + '.png')  # 处理后的格式也为jpg格式的，当然这里可以改成png格式
+                dst = os.path.join(os.path.abspath(self.path), '' + str(i) + '.jpg')  # 处理后的格式也为jpg格式的，当然这里可以改成png格式
                 # dst = os.path.join(os.path.abspath(self.path), '0000' + format(str(i), '0>3s') + '.jpg')
                 # 这种情况下的命名格式为0000000.jpg形式，可以自主定义想要的格式
                 try:
@@ -28,7 +28,7 @@ class BatchRename:
                     i = i + 1
                 except:
                     continue
-        print('total %d to rename & converted %d jpgs' % (total_num, i-1))
+        print('total %d to rename & converted %d jpg' % (total_num, i-1))
 
 
 if __name__ == '__main__':

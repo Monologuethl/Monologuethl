@@ -2,6 +2,8 @@
   <dictionary name="Tong">
     <words>
       <w>dicom</w>
+      <w>filelist</w>
+      <w>monologuethl</w>
       <w>verts</w>
     </words>
   </dictionary>
