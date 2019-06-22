@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/label/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/label/58.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/label/91.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/label/91.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/label/92.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/label/92.png" afterDir="false" />
-    </list>
+    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +12,7 @@
     <session id="828175387">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.5" value="2" />
@@ -144,13 +139,6 @@
               <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
-              <item name="label" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,7 +320,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.22689076" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.22689076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
