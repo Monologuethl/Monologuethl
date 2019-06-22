@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/10_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/10_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/10_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/1_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/1_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/1_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/2_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/2_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/2_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/3_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/3_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/3_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/4_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/4_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/4_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/5_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/5_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/5_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/6_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/6_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/6_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/7_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/7_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/7_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/8_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/8_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/8_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/9_json/info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/9_json/label_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/corp_img/9_json/label_viz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/get_label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/corp_img/dataset.bat" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +30,7 @@
           <entry key="JPG" value="18" />
           <entry key="jpg" value="58" />
           <entry key="png" value="6" />
-          <entry key="py" value="51" />
+          <entry key="py" value="53" />
           <entry key="txt" value="5" />
           <entry key="yaml" value="1" />
         </counts>
@@ -74,7 +39,7 @@
         <counts>
           <entry key="Image" value="82" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="51" />
+          <entry key="Python" value="53" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -94,16 +59,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -162,12 +132,12 @@
         <option value="$PROJECT_DIR$/code/photo_tools/binary_photo.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/label_photo.py" />
         <option value="$PROJECT_DIR$/code/photo_tools/show_photo.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/get_label.py" />
+        <option value="$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-6" />
     <option name="width" value="1049" />
     <option name="height" value="693" />
@@ -402,8 +372,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/us_image/201906050856590011SMP.JPG" />
-    <entry file="file://$PROJECT_DIR$/us_image/201906051518020001SMP.JPG" />
     <entry file="file://$PROJECT_DIR$/us_image/201906051518080002SMP.JPG" />
     <entry file="file://$PROJECT_DIR$/us_image/201906130843270026SMP.JPG" />
     <entry file="file://$PROJECT_DIR$/us_image/201906131119390033SMP.JPG" />
@@ -576,15 +544,25 @@
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/label_names.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/cmd_batch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="323">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
