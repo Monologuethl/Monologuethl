@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="" />
+    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/photo_tools/0.1_110_2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/photo_tools/Gray_photo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/photo_tools/corp_256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/us_label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/photo_tools/corp_photos.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/corp_photos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/photo_tools/show_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/show_photo.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,17 +20,17 @@
     <session id="828175387">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="35" />
+          <entry key="project.open.time.0" value="7" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="5" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="7" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,8 +39,9 @@
           <entry key="jpg" value="58" />
           <entry key="json" value="1" />
           <entry key="png" value="6" />
-          <entry key="py" value="69" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="87" />
+          <entry key="stl" value="1" />
+          <entry key="txt" value="6" />
           <entry key="yaml" value="1" />
         </counts>
       </usages-collector>
@@ -40,27 +49,64 @@
         <counts>
           <entry key="Image" value="82" />
           <entry key="JSON" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="69" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="87" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="py" value="3379" />
+          <entry key="py" value="3505" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="3379" />
+          <entry key="Python" value="3505" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/us_label.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/photo_tools/Gray_photo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="18" column="76" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,14 +144,12 @@
         <option value="$PROJECT_DIR$/code/cv/cv2_canny_edge_detection.py" />
         <option value="$PROJECT_DIR$/code/cv/cv2_histogram.py" />
         <option value="$PROJECT_DIR$/code/cv/change_name.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/corp_photos.py" />
         <option value="$PROJECT_DIR$/code/cv/cv2_canny_edge_exercise1.py" />
         <option value="$PROJECT_DIR$/code/cv/cv2_otsu_thresholding.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/img_threshold.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/erosion_dilation.py" />
         <option value="$PROJECT_DIR$/code/photo_tools/binary_photo.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/label_photo.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/show_photo.py" />
         <option value="$PROJECT_DIR$/code/StringTools/json_tools.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/binary_photo.py" />
@@ -114,6 +158,10 @@
         <option value="$PROJECT_DIR$/code/ultrasound_image/change_name.py" />
         <option value="$PROJECT_DIR$/code/python.py" />
         <option value="$PROJECT_DIR$/code/python_tips/callback_test.py" />
+        <option value="$PROJECT_DIR$/code/photo_tools/show_photo.py" />
+        <option value="$PROJECT_DIR$/code/photo_tools/corp_photos.py" />
+        <option value="$PROJECT_DIR$/code/photo_tools/corp_256.py" />
+        <option value="$PROJECT_DIR$/code/ultrasound_image/us_label.py" />
       </list>
     </option>
   </component>
@@ -147,7 +195,7 @@
               <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
               <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="StringTools" type="462c0819:PsiDirectoryNode" />
+              <item name="photo_tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
@@ -168,20 +216,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PycharmProjects/unet-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image" />
-      <recent name="D:\TONG\github\Monologuethl\dataset\json" />
-      <recent name="D:\TONG\github\Monologuethl\us_image" />
-      <recent name="D:\TONG\github\Monologuethl\code\photo_tools" />
-      <recent name="D:\TONG\github\Monologuethl\code\StringTools" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image\corp_img" />
       <recent name="D:\TONG\github\Monologuethl\code" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TONG\github\Monologuethl\code\photo_tools" />
+      <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image" />
+      <recent name="D:\TONG\github\Monologuethl\dataset\json" />
+      <recent name="D:\TONG\github\Monologuethl\us_image" />
+      <recent name="D:\TONG\github\Monologuethl\code\StringTools" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,8 +244,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.callback_test">
-    <configuration name="callback_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.us_label">
+    <configuration name="corp_256" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/python_tips" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/photo_tools" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/python_tips/callback_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/photo_tools/corp_256.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +266,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="change_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="corp_photos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Monologuethl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/photo_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/photo_tools/corp_photos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show_photo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Monologuethl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/photo_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/photo_tools/show_photo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stl_visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Monologuethl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/stl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/stl/stl_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="us_label" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,70 +341,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/change_name.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="get_label" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Monologuethl" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/get_label.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="get_label2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Monologuethl" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/get_label2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="json_tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Monologuethl" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/StringTools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/StringTools/json_tools.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/us_label.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,19 +351,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.get_label" />
-      <item itemvalue="Python.json_tools" />
-      <item itemvalue="Python.get_label2" />
-      <item itemvalue="Python.change_name" />
-      <item itemvalue="Python.callback_test" />
+      <item itemvalue="Python.stl_visual" />
+      <item itemvalue="Python.show_photo" />
+      <item itemvalue="Python.us_label" />
+      <item itemvalue="Python.corp_photos" />
+      <item itemvalue="Python.corp_256" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.callback_test" />
-        <item itemvalue="Python.change_name" />
-        <item itemvalue="Python.get_label2" />
-        <item itemvalue="Python.get_label" />
-        <item itemvalue="Python.json_tools" />
+        <item itemvalue="Python.us_label" />
+        <item itemvalue="Python.corp_256" />
+        <item itemvalue="Python.corp_photos" />
+        <item itemvalue="Python.show_photo" />
+        <item itemvalue="Python.stl_visual" />
       </list>
     </recent_temporary>
   </component>
@@ -334,13 +382,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28943452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.17142858" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.28739497" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -358,13 +407,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/us_image/201906131415220008SMP.JPG" />
-    <entry file="file://$PROJECT_DIR$/us_image/201906131425330009SMP.JPG" />
-    <entry file="file://$PROJECT_DIR$/us_image/201906131425360010SMP.JPG" />
-    <entry file="file://$PROJECT_DIR$/us_image/201906131425500012SMP.JPG" />
-    <entry file="file://$PROJECT_DIR$/us_image/201906131618470022SMP的副本.JPG" />
-    <entry file="file://$PROJECT_DIR$/us_image/Temp ID-2019052708413220190527084132933.jpg" />
-    <entry file="file://$PROJECT_DIR$/us_image/Temp ID-2019052708413220190527084146995.jpg" />
     <entry file="file://$PROJECT_DIR$/us_image/Temp ID-2019052708413220190527084207480.jpg" />
     <entry file="file://$PROJECT_DIR$/us_image/Temp ID-2019052708413220190527084229136.jpg" />
     <entry file="file://$PROJECT_DIR$/us_image/Temp ID-2019052708443420190527084508732.jpg" />
@@ -438,38 +480,10 @@
     <entry file="file://$PROJECT_DIR$/us_label/1.jpg" />
     <entry file="file://$PROJECT_DIR$/corp_img/0.jpg" />
     <entry file="file://$PROJECT_DIR$/us_label/2.jpg" />
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/show_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/label_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/img_threshold.py" />
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/info.yaml" />
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/label_names.txt" />
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/cmd_batch.py" />
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/binary_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/corp_photos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="8" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataset/json/0.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -501,24 +515,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/change_name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -530,10 +530,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/code/stl/100004.stl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/StringTools/test_copy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/stl/stl_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/dicom_process/batch_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/photo_tools/binary_photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/photo_tools/corp_256.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/photo_tools/corp_photos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/photo_tools/show_photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/label_photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-291">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/ultrasound_image/binary_photo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="-97">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/photo_tools/Gray_photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="76" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/us_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
