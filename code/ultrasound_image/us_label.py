@@ -16,7 +16,7 @@ def binary_photo(path):
     print(path)
 
 
-label = r"C:\Users\Tong\Desktop\U-Net-segmentation-master\U-Net\train_images"
+label = r"C:\Users\Tong\Desktop\us\corp\images"
 file_list = os.listdir(label)  # 获取文件路径
 
 for item in file_list:

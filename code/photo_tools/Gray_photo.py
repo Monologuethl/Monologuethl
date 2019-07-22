@@ -3,7 +3,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-path = r"C:\Users\Tong\Desktop\Unet-US\data\membrane\train\image"
+path = r"C:\Users\Tong\Desktop\images"
 
 for i in os.listdir(path):
     label_path = os.path.join(os.path.abspath(path), i)
@@ -14,7 +14,5 @@ for i in os.listdir(path):
     R = img[:, :, 2]
     x, y = R.shape
     src_new = np.zeros(R.shape).astype("uint8")
-    for m in range(x):
-        for n in range(y):
-            src_new[m, n] = 0.30 * B[m, n] + 0.59 * G[m, n] + 0.11 * R[m, n]
+    src_new = 0.30 * B + 0.59 * G + 0.11 * R
     cv2.imwrite(label_path, src_new)

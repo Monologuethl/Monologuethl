@@ -17,7 +17,7 @@ class BatchRename:
         total_num = len(filelist)  # 获取文件长度（个数）
         i = 0  # 表示文件的命名是从1开始的
         for item in filelist:
-            if item.endswith('.png'):  # 初始的图片的格式为jpg格式的（或者源文件是png格式及其他格式，后面的转换格式就可以调整为自己需要的格式即可）
+            if item.endswith('.jpg'):  # 初始的图片的格式为jpg格式的（或者源文件是png格式及其他格式，后面的转换格式就可以调整为自己需要的格式即可）
                 src = os.path.join(os.path.abspath(self.path), item)
                 dst = os.path.join(os.path.abspath(self.path), '' + str(i) + '.png')  # 处理后的格式也为jpg格式的，当然这里可以改成png格式
                 # dst = os.path.join(os.path.abspath(self.path), '0000' + format(str(i), '0>3s') + '.jpg')
