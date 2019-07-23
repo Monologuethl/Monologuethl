@@ -4,22 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/code/photo_tools/corp_photos.py" line="31" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/photo_tools/pred_103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/photo_tools/resize_photo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/photo_tools/singel_photo_resize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/RGBlabel2binarylabel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/img.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/photo_tools/Gray_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/Gray_photo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/photo_tools/corp_photos.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/corp_photos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/photo_tools/show_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/show_photo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/binary_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/binary_photo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/change_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/change_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/single_channel.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/single_channel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/us_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/us_label.py" afterDir="false" />
-    </list>
+    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +22,10 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="7" />
-          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -79,53 +64,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/photo_tools/resize_photo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/single_channel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="6" selection-start-line="6" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/ultrasound_image/RGBlabel2binarylabel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/photo_tools/show_photo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -223,19 +162,7 @@
               <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
               <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="photo_tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="StringTools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="ultrasound_image" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
@@ -417,9 +344,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28943452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28943452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -633,9 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,19 +608,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/photo_tools/resize_photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/show_photo.py">
+    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/single_channel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="6" selection-start-line="6" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -711,17 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/single_channel.py">
+    <entry file="file://$PROJECT_DIR$/code/photo_tools/show_photo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" selection-start-line="6" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/resize_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="76">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
