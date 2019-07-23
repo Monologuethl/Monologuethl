@@ -4,7 +4,15 @@
     <bookmark url="file://$PROJECT_DIR$/code/photo_tools/corp_photos.py" line="31" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="" />
+    <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/keras_learn/Keras_API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/keras_learn/Keras_VGG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/keras_learn/SequentialModels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/keras_learn/SqueezeNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,17 +23,17 @@
     <session id="828175387">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
-          <entry key="project.open.time.0" value="8" />
+          <entry key="project.closed" value="44" />
+          <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -34,7 +42,7 @@
           <entry key="jpg" value="65" />
           <entry key="json" value="1" />
           <entry key="png" value="7" />
-          <entry key="py" value="137" />
+          <entry key="py" value="143" />
           <entry key="stl" value="1" />
           <entry key="txt" value="6" />
           <entry key="yaml" value="1" />
@@ -45,26 +53,72 @@
           <entry key="Image" value="90" />
           <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="137" />
+          <entry key="Python" value="143" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="py" value="5057" />
+          <entry key="py" value="5260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="5057" />
+          <entry key="Python" value="5260" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_API.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_VGG.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="7" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/keras_learn/SqueezeNet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,10 +183,15 @@
         <option value="$PROJECT_DIR$/code/photo_tools/show_photo.py" />
         <option value="$PROJECT_DIR$/code/ultrasound_image/single_channel.py" />
         <option value="$PROJECT_DIR$/code/photo_tools/resize_photo.py" />
+        <option value="$PROJECT_DIR$/code/keras_learn/SequentialModels.py" />
+        <option value="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" />
+        <option value="$PROJECT_DIR$/code/keras_learn/Keras_API.py" />
+        <option value="$PROJECT_DIR$/code/keras_learn/Keras_VGG.py" />
+        <option value="$PROJECT_DIR$/code/keras_learn/SqueezeNet.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="179" />
     <option name="y" value="66" />
     <option name="width" value="1049" />
@@ -146,6 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,7 +222,7 @@
               <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
               <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="StringTools" type="462c0819:PsiDirectoryNode" />
+              <item name="keras_learn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
@@ -173,7 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,16 +241,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image\corp_img" />
+      <recent name="D:\TONG\github\Monologuethl\code" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\TONG\github\Monologuethl\code\photo_tools" />
       <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image" />
       <recent name="D:\TONG\github\Monologuethl\dataset\json" />
       <recent name="D:\TONG\github\Monologuethl\us_image" />
       <recent name="D:\TONG\github\Monologuethl\code\StringTools" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image\corp_img" />
-      <recent name="D:\TONG\github\Monologuethl\code" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -206,8 +265,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.resize_photo">
-    <configuration name="RGBlabel2binarylabel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LinerRegression_Keras">
+    <configuration name="LinerRegression_Keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/keras_learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/RGBlabel2binarylabel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,19 +372,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.RGBlabel2binarylabel" />
       <item itemvalue="Python.single_channel" />
       <item itemvalue="Python.show_photo" />
       <item itemvalue="Python.singel_photo_resize" />
       <item itemvalue="Python.resize_photo" />
+      <item itemvalue="Python.LinerRegression_Keras" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinerRegression_Keras" />
         <item itemvalue="Python.resize_photo" />
         <item itemvalue="Python.single_channel" />
         <item itemvalue="Python.show_photo" />
         <item itemvalue="Python.singel_photo_resize" />
-        <item itemvalue="Python.RGBlabel2binarylabel" />
       </list>
     </recent_temporary>
   </component>
@@ -343,14 +402,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28943452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.3462185" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.4252101" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,35 +457,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/corp_img/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/code/cv/cv2_canny_edge_exercise1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/cv/cv2_otsu_thresholding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/erosion_dilation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/us_label/4.jpg" />
     <entry file="file://$PROJECT_DIR$/us_label/3.jpg" />
     <entry file="file://$PROJECT_DIR$/code/cv/cv2_erosion_dilation.py">
@@ -615,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,8 +667,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/SequentialModels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_VGG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/SqueezeNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
