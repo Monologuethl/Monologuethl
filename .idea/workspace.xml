@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/keras_learn/Keras_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/keras_learn/Keras_VGG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/keras_learn/SequentialModels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/keras_learn/SqueezeNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/keras_learn/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/code/keras_learn/my_model.h5" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +34,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JPG" value="18" />
+          <entry key="h5" value="2" />
           <entry key="jpg" value="65" />
           <entry key="json" value="1" />
           <entry key="png" value="7" />
@@ -52,7 +48,7 @@
         <counts>
           <entry key="Image" value="90" />
           <entry key="JSON" value="1" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="Python" value="143" />
           <entry key="YAML" value="1" />
         </counts>
@@ -60,60 +56,24 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="py" value="5260" />
+          <entry key="py" value="5274" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="5260" />
+          <entry key="Python" value="5274" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_API.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_VGG.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/keras_learn/SqueezeNet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-41">
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -184,10 +144,10 @@
         <option value="$PROJECT_DIR$/code/ultrasound_image/single_channel.py" />
         <option value="$PROJECT_DIR$/code/photo_tools/resize_photo.py" />
         <option value="$PROJECT_DIR$/code/keras_learn/SequentialModels.py" />
-        <option value="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" />
         <option value="$PROJECT_DIR$/code/keras_learn/Keras_API.py" />
         <option value="$PROJECT_DIR$/code/keras_learn/Keras_VGG.py" />
         <option value="$PROJECT_DIR$/code/keras_learn/SqueezeNet.py" />
+        <option value="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" />
       </list>
     </option>
   </component>
@@ -405,12 +365,12 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.4252101" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.28235295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,7 +417,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/us_label/4.jpg" />
     <entry file="file://$PROJECT_DIR$/us_label/3.jpg" />
     <entry file="file://$PROJECT_DIR$/code/cv/cv2_erosion_dilation.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -680,40 +639,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py">
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/my_model.h5">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/SqueezeNet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="-164">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_API.py">
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="304">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_VGG.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="171">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
             <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/SqueezeNet.py">
+    <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_API.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-41">
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>

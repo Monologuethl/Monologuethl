@@ -2,6 +2,7 @@ import keras
 from keras.models import Sequential
 from keras.layers import Dense
 import numpy as np
+
 # a) 创建训练数据
 # rainX 的数据范围是 -1 到 1，TrainY 与 TrainX 的关系是3倍，并且我们加入了一些噪声点。
 trX = np.linspace(-1, 1, 101)
@@ -18,11 +19,6 @@ print('Linear regression model is initialized with weights w: %.2f, b: %.2f' % (
 model.compile(optimizer='sgd', loss='mse')
 model.fit(trX, trY, nb_epoch=200, verbose=1)
 
-weights = model.layers[0].get_weights()
-w_final = weights[0][0][0]
-b_final = weights[1][0]
-print('Linear regression model is trained to have weight w: %.2f, b: %.2f' % (w_final, b_final))
-
 model.save_weights("my_model.h5")
 
-# model.load_weights('my_model_weights.h5')
+# model.load_weights('my_model.h5')
