@@ -1,84 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/code/photo_tools/corp_photos.py" line="31" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/keras_learn/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/code/keras_learn/my_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/sourcedata_compare_labeled.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Monologuethl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Monologuethl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/photo_tools/resize_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/resize_photo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/photo_tools/show_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/show_photo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="828175387">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="44" />
-          <entry key="project.open.time.0" value="9" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.5" value="6" />
-          <entry key="project.open.time.6" value="7" />
-          <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="7" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="48" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="JPG" value="18" />
-          <entry key="h5" value="2" />
-          <entry key="jpg" value="65" />
-          <entry key="json" value="1" />
-          <entry key="png" value="7" />
-          <entry key="py" value="143" />
-          <entry key="stl" value="1" />
-          <entry key="txt" value="6" />
-          <entry key="yaml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="90" />
-          <entry key="JSON" value="1" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="143" />
-          <entry key="YAML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="13" />
-          <entry key="py" value="5274" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="5274" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_API.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret column="30" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,103 +33,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/code/ultrasound_image/cv/cv2_thresholding.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/cv/cv2_otsu_thresholding.py" />
-        <option value="$PROJECT_DIR$/code/dicom_process/plot_3d.py" />
-        <option value="$PROJECT_DIR$/code/dicom_process/3D——numpy.py" />
-        <option value="$PROJECT_DIR$/code/dicom_process/batch_generator.py" />
-        <option value="$PROJECT_DIR$/code/dicom_process/mat.py" />
-        <option value="$PROJECT_DIR$/code/dicom_process/3D_numpy.py" />
-        <option value="$PROJECT_DIR$/code/numpy/numpy_demo.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/cv/change_name.py" />
-        <option value="$PROJECT_DIR$/code/StringTools/1.txt" />
-        <option value="$PROJECT_DIR$/code/StringTools/kill_space.py" />
-        <option value="$PROJECT_DIR$/code/stl/mesure_volume.py" />
-        <option value="$PROJECT_DIR$/code/stl/stl_visual.py" />
-        <option value="$PROJECT_DIR$/code/cv/cv2_canny_edge_detection.py" />
-        <option value="$PROJECT_DIR$/code/cv/cv2_histogram.py" />
-        <option value="$PROJECT_DIR$/code/cv/change_name.py" />
-        <option value="$PROJECT_DIR$/code/cv/cv2_canny_edge_exercise1.py" />
-        <option value="$PROJECT_DIR$/code/cv/cv2_otsu_thresholding.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/img_threshold.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/erosion_dilation.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/label_photo.py" />
-        <option value="$PROJECT_DIR$/code/StringTools/json_tools.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/get_label.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/get_label2.py" />
-        <option value="$PROJECT_DIR$/code/python.py" />
-        <option value="$PROJECT_DIR$/code/python_tips/callback_test.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/corp_256.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/binary_photo.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/Gray_photo.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/binary_photo.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/img.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/corp_photos.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/us_label.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/change_name.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/RGBlabel2binarylabel.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/singel_photo_resize.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/show_photo.py" />
-        <option value="$PROJECT_DIR$/code/ultrasound_image/single_channel.py" />
-        <option value="$PROJECT_DIR$/code/photo_tools/resize_photo.py" />
-        <option value="$PROJECT_DIR$/code/keras_learn/SequentialModels.py" />
-        <option value="$PROJECT_DIR$/code/keras_learn/Keras_API.py" />
-        <option value="$PROJECT_DIR$/code/keras_learn/Keras_VGG.py" />
-        <option value="$PROJECT_DIR$/code/keras_learn/SqueezeNet.py" />
-        <option value="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="179" />
-    <option name="y" value="66" />
-    <option name="width" value="1049" />
-    <option name="height" value="693" />
-  </component>
+  <component name="ProjectId" id="1OVQZXclKxy0FkC1sKex3hfWM0Z" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="keras_learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Monologuethl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Monologuethl" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -225,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LinerRegression_Keras">
+  <component name="RunManager" selected="Python.sourcedata_compare_labeled">
     <configuration name="LinerRegression_Keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,6 +84,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change_name2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Monologuethl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,28 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="singel_photo_resize" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Monologuethl" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/photo_tools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/photo_tools/singel_photo_resize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="single_channel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sourcedata_compare_labeled" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/single_channel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/sourcedata_compare_labeled.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,19 +177,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.single_channel" />
-      <item itemvalue="Python.show_photo" />
-      <item itemvalue="Python.singel_photo_resize" />
-      <item itemvalue="Python.resize_photo" />
       <item itemvalue="Python.LinerRegression_Keras" />
+      <item itemvalue="Python.resize_photo" />
+      <item itemvalue="Python.show_photo" />
+      <item itemvalue="Python.change_name2" />
+      <item itemvalue="Python.sourcedata_compare_labeled" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LinerRegression_Keras" />
-        <item itemvalue="Python.resize_photo" />
-        <item itemvalue="Python.single_channel" />
+        <item itemvalue="Python.sourcedata_compare_labeled" />
         <item itemvalue="Python.show_photo" />
-        <item itemvalue="Python.singel_photo_resize" />
+        <item itemvalue="Python.resize_photo" />
+        <item itemvalue="Python.change_name2" />
+        <item itemvalue="Python.LinerRegression_Keras" />
       </list>
     </recent_temporary>
   </component>
@@ -361,50 +206,18 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.28235295" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.32605043" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28943452" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.2789916" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.32605043" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,269 +228,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/us_label/3.jpg" />
-    <entry file="file://$PROJECT_DIR$/code/cv/cv2_erosion_dilation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/us_label/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/corp_img/0.jpg" />
-    <entry file="file://$PROJECT_DIR$/us_label/2.jpg" />
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/img_threshold.py" />
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/info.yaml" />
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/0_json/label_names.txt" />
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/corp_img/cmd_batch.py" />
-    <entry file="file://$PROJECT_DIR$/dataset/json/0.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/cmd_batch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/shutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="543" selection-start-line="543" selection-end-line="543" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/cv/change_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/python.py" />
-    <entry file="file://$PROJECT_DIR$/code/python_tips/callback_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/stl/100004.stl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/StringTools/test_copy.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/stl/stl_visual.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/dicom_process/batch_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/corp_256.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/0.1_110_2_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/Gray_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/img.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/us/images/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/dataset/us/images/7.jpg" />
-    <entry file="file://$PROJECT_DIR$/dataset/us/images/5.jpg" />
-    <entry file="file://$PROJECT_DIR$/dataset/us/images/4.jpg" />
-    <entry file="file://$PROJECT_DIR$/dataset/us/images/0.jpg" />
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/corp_photos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/StringTools/json_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/us/images/6.jpg" />
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/label_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/change_name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/change_name2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/binary_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/us_label.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/get_label.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/binary_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1378840039/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1318">
-          <caret line="9201" column="36" selection-start-line="9201" selection-start-column="36" selection-end-line="9201" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/singel_photo_resize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/resize_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/single_channel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" selection-start-line="6" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ultrasound_image/RGBlabel2binarylabel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/photo_tools/show_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/SequentialModels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/my_model.h5">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/SqueezeNet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_VGG.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/keras_learn/Keras_API.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

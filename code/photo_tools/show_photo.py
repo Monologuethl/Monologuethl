@@ -1,6 +1,6 @@
 import cv2
 import matplotlib.pyplot as plt
-path1 = r"C:\Users\Tong\Desktop\label4\3.png"
+path1 = r"D:\Tong\github\Unet-US\data\membrane\test\0_predict.png"
 img1 = cv2.imread(path1)
 # cv2.imshow("img", img)
 # cv2.waitKey(0)

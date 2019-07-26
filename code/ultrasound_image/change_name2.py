@@ -1,7 +1,7 @@
 import cv2
 import os
 
-root = r"C:\Users\Tong\Desktop\us\corp\images"
+root = r"D:\Tong\github\Unet-US\data\membrane\test"
 
 file_list = os.listdir(root)  # 获取文件路径
 print(file_list)
@@ -12,4 +12,4 @@ for item in file_list:
     print(img.shape)
     path =os.path.join(os.path.abspath(root), item[0:-4]+".png")
     print(path)
-    # cv2.imwrite(path, img)
+    cv2.imwrite(path, img)
