@@ -1,7 +1,7 @@
 import cv2
 import os
 
-root = r"D:\Tong\github\Unet-US\data\membrane\test"
+root = r"C:\Users\2016\Desktop\corp_512\image"
 
 file_list = os.listdir(root)  # 获取文件路径
 print(file_list)

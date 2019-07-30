@@ -1,10 +1,8 @@
 import cv2
 import os
 
-root = r"D:\Tong\github\Unet-US\data\membrane\test"
+root = r"C:\Users\2016\Desktop\label\Subcutaneous"
 label = r"C:\Users\Tong\Desktop\label"
-
-
 label1 = r"C:\Users\Tong\Desktop\label1"
 label2 = r"C:\Users\Tong\Desktop\label2"
 label3 = r"C:\Users\Tong\Desktop\label3"
@@ -23,10 +21,10 @@ file_list = os.listdir(root)  # 获取文件路径
 print(file_list)
 for item in file_list:
     photo_path = os.path.join(os.path.abspath(root), item)
-    # crop_size = (256, 256)
+    # crop_size = (512, 512)
+    # print(photo_path)
     # img = cv2.imread(photo_path)
     # img_new = cv2.resize(img, crop_size, interpolation=cv2.INTER_NEAREST)
-    #
     # cv2.imwrite(photo_path, img_new)
 
     # 单通道
