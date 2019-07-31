@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/code/photo_tools/corp_photos.py" line="31" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f3a6049-d0ea-4132-84ba-fc89b2531d20" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/code/ultrasound_image/results_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/photo_tools/resize_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/resize_photo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/photo_tools/show_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/photo_tools/show_photo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ultrasound_image/sourcedata_compare_labeled.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ultrasound_image/sourcedata_compare_labeled.py" afterDir="false" />
+>>>>>>> 264a2edca1f0b1ea8aee90c0fd36337675218cbe
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +19,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="828175387">
       <usages-collector id="statistics.lifecycle.project">
@@ -89,6 +96,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 264a2edca1f0b1ea8aee90c0fd36337675218cbe
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -106,8 +115,10 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -204,22 +215,28 @@
       </pane>
     </panes>
   </component>
+=======
+  <component name="ProjectId" id="1OVQZXclKxy0FkC1sKex3hfWM0Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 264a2edca1f0b1ea8aee90c0fd36337675218cbe
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Unet-multiclass" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image\corp_img" />
-      <recent name="D:\TONG\github\Monologuethl\code" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\TONG\github\Monologuethl\code\photo_tools" />
       <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image" />
       <recent name="D:\TONG\github\Monologuethl\dataset\json" />
       <recent name="D:\TONG\github\Monologuethl\us_image" />
       <recent name="D:\TONG\github\Monologuethl\code\StringTools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TONG\github\Monologuethl\code\ultrasound_image\corp_img" />
+      <recent name="D:\TONG\github\Monologuethl\code" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LinerRegression_Keras">
-    <configuration name="LinerRegression_Keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.resize_photo">
+    <configuration name="change_name2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/keras_learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/keras_learn/LinerRegression_Keras.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/change_name2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,6 +294,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="results_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Monologuethl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ultrasound_image" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/results_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="show_photo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,28 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="singel_photo_resize" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Monologuethl" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/photo_tools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/photo_tools/singel_photo_resize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="single_channel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sourcedata_compare_labeled" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Monologuethl" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,7 +348,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/single_channel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ultrasound_image/sourcedata_compare_labeled.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,19 +358,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.single_channel" />
-      <item itemvalue="Python.show_photo" />
-      <item itemvalue="Python.singel_photo_resize" />
       <item itemvalue="Python.resize_photo" />
-      <item itemvalue="Python.LinerRegression_Keras" />
+      <item itemvalue="Python.show_photo" />
+      <item itemvalue="Python.change_name2" />
+      <item itemvalue="Python.sourcedata_compare_labeled" />
+      <item itemvalue="Python.results_process" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LinerRegression_Keras" />
         <item itemvalue="Python.resize_photo" />
-        <item itemvalue="Python.single_channel" />
         <item itemvalue="Python.show_photo" />
-        <item itemvalue="Python.singel_photo_resize" />
+        <item itemvalue="Python.results_process" />
+        <item itemvalue="Python.change_name2" />
+        <item itemvalue="Python.sourcedata_compare_labeled" />
       </list>
     </recent_temporary>
   </component>
@@ -370,6 +387,7 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
@@ -414,6 +432,20 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 264a2edca1f0b1ea8aee90c0fd36337675218cbe
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -422,9 +454,14 @@
           <url>file://$PROJECT_DIR$/code/photo_tools/corp_photos.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/photo_tools/corp_256.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/us_label/3.jpg" />
     <entry file="file://$PROJECT_DIR$/code/cv/cv2_erosion_dilation.py">
@@ -677,4 +714,6 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> 264a2edca1f0b1ea8aee90c0fd36337675218cbe
 </project>
