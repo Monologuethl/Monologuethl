@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 # 1.腐蚀与膨胀
-path = r'D:\TONG\github\Monologuethl\us_label\2.jpg'
+path = r'C:\Users\Tong\Desktop\edgs\1.png'
 
 img = cv2.imread(path, 0)
 # kernel = np.ones((5, 5), np.uint8)
@@ -32,15 +32,15 @@ cv2.waitKey(0)
 #
 # # 3.开运算与闭运算
 # kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (5, 5))  # 定义结构元素
-#
-# # 开运算
+
+# 开运算
 # img = cv2.imread(path, 0)
 # opening = cv2.morphologyEx(img, cv2.MORPH_OPEN, kernel)
 #
 # cv2.imshow('opening', opening)
 # cv2.waitKey(0)
-#
-# # 闭运算
+
+# 闭运算
 # img = cv2.imread(path, 0)
 # closing = cv2.morphologyEx(img, cv2.MORPH_CLOSE, kernel)
 #

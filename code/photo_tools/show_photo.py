@@ -1,8 +1,9 @@
 import cv2
 import matplotlib.pyplot as plt
 
-path1 = r"C:\Users\2016\Desktop\compare\label\3.png"
+path1 = r"D:\TONG\github\Monologuethl\dataset\line_label\0.png"
 img1 = cv2.imread(path1)
+print(img1.shape)
 # cv2.imshow("img", img)
 # cv2.waitKey(0)
 # R = img1[:, :, 2]

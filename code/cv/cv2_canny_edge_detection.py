@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 # 1.Canny边缘检测
-img = cv2.imread(r'D:\TONG\PycharmProjects\ultrasound image\image\2.jpg', 0)
+img = cv2.imread(r'C:\Users\Tong\Desktop\label\2.png', 0)
 edges = cv2.Canny(img, 30, 70)
 
 # cv2.imshow('canny', edges)
